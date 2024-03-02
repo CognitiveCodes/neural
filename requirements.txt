@@ -3,3 +3,17 @@ numpy
 pandas
 pydeck
 streamlit
+gradio
+requests
+datetime
+websockets
+websocket
+asyncio
+bs4
+pysimplegui
+g4f
+gpt4free
+fireworks-ai
+langchain
+PyCharacterAI
+forefront
